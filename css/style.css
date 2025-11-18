@@ -46,7 +46,7 @@ body{
 }
 
 .page1{
-    background-image: url(/img/bg1.jpeg);
+    background-image: url(img/bg1.jpeg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -151,7 +151,7 @@ img{
 }
 
 .main3{
-    background-image: url(/img/bg2.jpeg);
+    background-image: url(img/bg2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
@@ -185,4 +185,5 @@ img{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
